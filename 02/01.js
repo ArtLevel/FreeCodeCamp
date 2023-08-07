@@ -1,9 +1,1 @@
-// Variable declarations
-var studlyCapVar ;
-var properCamelCase;
-var  titleCaseOver ;
-
-// Variable assignments
-studlyCapVar = 10;
-properCamelCase = "A String";
-titleCaseOver  = 9000;
+const quotient = 4.4 / 2.0; // Change this line
