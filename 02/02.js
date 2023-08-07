@@ -1,2 +1,1 @@
-let catName = "Oliver";
-let catSound = "Meow!";
+const remainder = 2 % 10;
