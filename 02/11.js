@@ -24,3 +24,6 @@ const f3 = () => {
 const f4 = () => {
 	const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
 }
+const f5 = () => {
+	const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+}
